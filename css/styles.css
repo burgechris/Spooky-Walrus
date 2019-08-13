@@ -9,5 +9,14 @@
 
 body {
   background-color: black;
-  color: white;
+  color: gray;
+}
+
+.lights-on {
+  background-color: yellow;
+}
+
+.lights-off {
+  background-color: black;
+  color: gray;
 }
