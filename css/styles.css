@@ -1,0 +1,13 @@
+.initial-hidden {
+  display: none
+}
+
+.click {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
